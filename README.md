@@ -6,9 +6,9 @@ A simple widgets application using wikipedia's api with React Hooks.
 
 - When the component is rendered for the first time only
 - Whent the component is rendered for the first time and whenever it rerenders
-- When the component is rendered for the first time and whenever it rerenders and some piece of data has changed\
+- When the component is rendered for the first time and whenever it rerenders and some piece of data has changed
 
-First Argument you pass on the useEffect is a callback function\
+First Argument you pass on the useEffect is a callback function
 
 The second argument you pass is an array. The array controlls which of the above points the useEffect will fall into.
 
